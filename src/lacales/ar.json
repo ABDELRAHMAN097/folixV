@@ -1,0 +1,201 @@
+{
+  "links": {
+  
+  },
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "message": "عذراً، الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+    "backHome": "العودة للصفحة الرئيسية",
+    "helpText": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بفريق الدعم"
+  },
+  "login": {
+    "email": "البريد الالكتروني",
+    "password": "كلمة المرور",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "login": "تسجيل الدخول",
+    "submitting": "جاري تسجيل الدخول...",
+    "emailPlaceholder": "البريد الالكتروني",
+    "passwordPlaceholder": "كلمة المرور"
+  },
+  "forgotPassword": {
+    "title": "نسيت كلمة المرور",
+    "subtitle": "أدخل عنوان بريدك الإلكتروني وسنرسل لك رابطًا لإعادة تعيين كلمة المرور",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+    "submit": "إرسال رابط إعادة التعيين",
+    "submitting": "جاري الإرسال...",
+    "backToLogin": "العودة لتسجيل الدخول",
+    "successMessage": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني"
+  },
+  "otp": {
+    "title": "رمز التحقق",
+    "subtitle": "أدخل رمز التحقق المكون من 6 أرقام المرسل إلى بريدك الإلكتروني",
+    "codeLabel": "رمز التحقق",
+    "submit": "التحقق من الرمز",
+    "submitting": "جاري التحقق...",
+    "resendCode": "إعادة إرسال الرمز",
+    "resendCodeTimer": "إعادة إرسال الرمز بعد {seconds} ثانية",
+    "backToLogin": "العودة لتسجيل الدخول",
+    "successMessage": "تم التحقق بنجاح",
+    "invalidCode": "رمز التحقق غير صحيح"
+  },
+  "resetPassword": {
+    "title": "إعادة تعيين كلمة المرور",
+    "subtitle": "أدخل كلمة المرور الجديدة",
+    "password": "كلمة المرور الجديدة",
+    "passwordPlaceholder": "أدخل كلمة المرور الجديدة",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "تأكيد كلمة المرور الجديدة",
+    "submit": "إعادة تعيين كلمة المرور",
+    "submitting": "جاري إعادة التعيين...",
+    "backToLogin": "العودة لتسجيل الدخول",
+    "successMessage": "تم إعادة تعيين كلمة المرور بنجاح",
+    "passwordsMustMatch": "يجب أن تتطابق كلمات المرور"
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "invalidEmail": "يرجى إدخال عنوان بريد إلكتروني صالح",
+    "passwordMinLength": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+    "passwordsMustMatch": "يجب أن تتطابق كلمات المرور",
+    "invalidOTP": "الرجاء إدخال رمز صحيح مكون من 6 أرقام"
+  },
+  "navbar": {
+    "overview": "لوحة القيادة",
+    "search": "بحث"
+  },
+  "sidebar": {
+    "overview": "لوحة القيادة",
+    "properties": "الرائيسيه",
+    "Users": "المستخدمين",
+    "requests": "الطلبات",
+    "services": "خدماتنا",
+    "Messages": "الرسائل",
+    "OurCourses": "كورساتنا",
+    "ourProduct": "منتجاتنا",
+    "blog":"مدونة",
+    "aboutUs":"من نحن",
+    "feedback":"تعليق",
+    "featuredPartener":"شركاء مميزين",
+    "contactUs":"اتصل بنا"
+  },
+  "dashboard":{
+    "Pageviews":"مشاهدات الصفحة",
+    "MonthlyUsers":"المستخدمين شهريا",
+    "New":"عمليات الاشتراك الجديدة",
+    "Subscriptions":"الاشتراكات",
+    "EarningDetails":"تفاصيل الكسب",
+    "WebsiteVisitors":"زوار الموقع",
+    "LatestTransactions":"أحدث المعاملات"
+  },
+  "feedback":{
+    "addNew": "إضافة جديد",
+    "title": "أضف ملاحظة جديدة",
+    "upload": "اضغط لرفع صورة",
+    "hint": "PNG أو JPG أو GIF (بحد أقصى 800x400)",
+    "addBtn": "إضافة",
+    "cancelBtn": "إلغاء",
+    "loading": "جاري التحميل..."
+  },
+  "button":{
+    "saveChange":"حفظ التغييرات",
+    "cancel":"إلغاء",
+    "add":"إضافة",
+    "accept":"قبول",
+    "decline":"رفض", 
+    "delete":"حذف",
+    "rejected":"مرفوض",
+    "approved":"تم الموافقة",
+    "pending":"قيد الانتظار",
+    "addUser":"إضافة مستخدم",
+    "addNew":"إضافة جديد",
+    "loading":"جاري التحميل..."
+  },
+  "table":{
+    "name":"الاسم",
+    "ID":"الرقم",
+    "AccountCost":"السعر",
+    "walletLink":"الرابط",
+    "email":"البريد الالكتروني",
+    "phone":"الهاتف",
+    "message":"الرسالة",
+    "status":"الحالة",
+    "action":"الاقدام",
+    "Logo":"الشعار",
+    "control":"التحكم",
+    "course":"فيديو الكورس",
+    "description":"الوصف",
+    "price":"السعر",
+    "image":"الصورة",
+    "title":"العنوان",
+    "telegram":"رابط تيليجرام",
+    "weblink":"رابط الموقع",
+    "video":"فيديو",
+    "link":"رابط",
+    "text":"نص",
+    "icon":"ايكون",
+    "rate":"تقييم",
+    "button":"زر",
+    "ContentTitle":"عنوان المحتوى",
+    "SessionNum":"رقم الجلسة",
+    "SessionTitle":"عنوان الجلسة",
+    "method" : "طريقة"
+  },
+  "users":{
+    "OtherUsers": "مستخدمين اخرين",
+    "TopUsers": "مستخدمين اعلى",
+    "NewUsers": "مستخدمين جديد",
+    "TotalUsers": "المستخدمين",
+    "hint": "PNG, JPG, or GIF (max. 800x400px)",
+    "addBtn": "إضافة",
+    "cancelBtn": "إلغاء",
+    "loading": "جاري التحميل..."
+  },
+  "OurProduct":{
+    "CopyTrade":"نسخ التداول",
+    "LiveTrade":" التداول المباشر",
+    "Recommendations":"التوصيات",
+    "placeholder":"أدخل النص هنا..."
+  },
+  "OurCourses":{
+    "MostPopular":"الكثير من المفضل",
+    "NewCourses":"الكورسات الجديدة",
+    "CourseBooking":"الحجز للكورس",
+    "CourseContent":"محتوى الكورس",
+    "Payment":"الدفع",
+    "CourseHighlight":"تمييز الدوره",
+    "Instructor":"المدرب",
+    "ContentTitle":"عنوان المحتوى",
+    "SessionNum":"رقم الجلسة",
+    "SessionTitle":"عنوان الجلسة",
+    "Video":"فيديو",
+    "Save Change":"حفظ التغييرات",
+    "Course Booking":"الحجز للكورس",
+    "Course Content":"محتوى الكورس",
+    "Categories":"الاقسام"
+  },
+  "EditCourseContent":{
+    "ContentTitle":"عنوان المحتوى",
+    "SessionNum":"رقم الجلسة",
+    "SessionTitle":"عنوان الجلسة",
+    "Video":"فيديو",
+    "Save Change":"حفظ التغييرات",
+    "Course Booking":"الحجز للكورس",
+    "Course Content":"محتوى الكورس",
+    "Categories":"الاقسام",
+    "Foundations of Stock Trading":"أساسيات تداول الأسهم",
+    "Session":"الجلسة",
+    "StockTrading":"تداول الأسهم"
+  },
+  "EditCourseBooking":{
+    "mohamedHassan":"محمد حسن",
+    "meetYourTradingMentor":"تعرف على معلمك التجاري",
+    "buyNow":"اشتري الآن ₹499 ₹1199"
+},
+"EditCategorys":{
+    "StockTrading":"تداول الأسهم",
+    "DescriptionCategory":"أساسيات تداول الأسهم "
+}
+}
+
+

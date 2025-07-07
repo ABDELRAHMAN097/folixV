@@ -1,0 +1,187 @@
+{
+  "links": {
+
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home",
+    "helpText": "If you think this is an error, please contact support"
+  },
+  "login": {
+    "email": "Email Address",
+    "password": "Password",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "login": "Login",
+    "submitting": "Logging in...",
+    "emailPlaceholder": "Email Address",
+    "passwordPlaceholder": "Password"
+  },
+  "forgotPassword": {
+    "title": "Forgot Password",
+    "subtitle": "Enter your email address and we'll send you a link to reset your password",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "submit": "Send Reset Link",
+    "submitting": "Sending...",
+    "backToLogin": "Back to Login",
+    "successMessage": "Password reset link has been sent to your email"
+  },
+  "otp": {
+    "title": "Verification Code",
+    "subtitle": "Enter the 6-digit code sent to your email",
+    "codeLabel": "Verification Code",
+    "submit": "Verify Code",
+    "submitting": "Verifying...",
+    "resendCode": "Resend Code",
+    "resendCodeTimer": "Resend code in {seconds} seconds",
+    "backToLogin": "Back to Login",
+    "successMessage": "Verification successful",
+    "invalidCode": "Invalid verification code"
+  },
+  "resetPassword": {
+    "title": "Reset Password",
+    "subtitle": "Enter your new password",
+    "password": "New Password",
+    "passwordPlaceholder": "Enter your new password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your new password",
+    "submit": "Reset Password",
+    "submitting": "Resetting...",
+    "backToLogin": "Back to Login",
+    "successMessage": "Password has been reset successfully",
+    "passwordsMustMatch": "Passwords must match"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "passwordsMustMatch": "Passwords must match",
+    "invalidOTP": "Please enter a valid 6-digit code"
+  },
+  "navbar": {
+    "overview": "Dashboard",
+    "search": "Search"
+  },
+  "sidebar": {
+    "overview": "Dashboard",
+    "properties": "Home",
+    "Users": "User",
+    "requests": "Withdrawal Request",
+    "services": "Services",
+    "Messages": "Messages",
+    "OurCourses": "OurCourses",
+    "ourProduct": "Our Product",
+    "blog":"Blog",
+    "aboutUs":"About Us",
+    "feedback":"Feedback",
+    "featuredPartener":"Featured Partener",
+    "contactUs":"ContactUs"
+  },
+  "dashboard":{
+    "Pageviews":"Pageviews",
+    "MonthlyUsers":"Monthly users",
+    "New":"New sign ups",
+    "Subscriptions":"Subscriptions",
+    "EarningDetails":"Earning Details",
+    "WebsiteVisitors":"Website Visitors",
+    "LatestTransactions":"Latest Transactions"
+  },
+    "feedback":{
+    "addNew": "Add New",
+    "title": "Add New Feedback",
+    "upload": "Click to upload",
+    "hint": "PNG, JPG, or GIF (max. 800x400px)",
+    "addBtn": "Add",
+    "cancelBtn": "Cancel",
+    "loading": "Loading..."
+  },
+  "button":{
+    "saveChange":"Save Change",
+    "cancel":"Cancel",
+    "add":"Add",
+    "accept":"Accept",
+    "decline":"Decline", 
+    "delete":"Delete",
+    "rejected":"Rejected",
+    "approved":"Approved",
+    "pending":"Pending",
+    "addUser":"Add User",
+    "addNew":"Add New",
+    "loading":"Loading..."
+  },
+  "table":{
+    "name":"Name",
+    "ID":"ID",
+    "email":"Email",
+    "phone":"Phone",
+    "message":"Message",
+    "status":"Status",
+    "action":"Action",
+    "Logo":"Logo",
+    "control":"Control",
+    "course":"Course Video",
+    "description":"Description",
+    "price":"Price",
+    "image":"Image",
+    "title":"Title",  
+    "telegram":"Telegram Link",
+    "walletLink":"Wallet Link",
+    "AccountCost":"Account Cost",
+    "weblink":"web link",
+    "video":"Video",
+    "link":"Link",
+    "text":"Text",
+    "icon":"Icon",
+    "rate":"Rate",
+    "button":"Button",
+    "ContentTitle":"Content Title",
+    "SessionNum":"Session Num",
+    "SessionTitle":"Session Title",
+    "method" : "Method"
+  },
+  "users":{
+    "OtherUsers": "Other Users",
+    "TopUsers": "Top Users",
+    "NewUsers": "New Users",
+    "TotalUsers": "Total Users",
+    "hint": "PNG, JPG, or GIF (max. 800x400px)",
+    "addBtn": "Add",
+    "cancelBtn": "Cancel",
+    "loading": "Loading..."
+  },
+  "OurProduct":{
+    "CopyTrade":"Copy Trade",
+    "LiveTrade":"Live Trade",
+    "Recommendations":"Recommendations",
+    "placeholder":"Enter your text here..."
+  },
+  "OurCourses":{
+    "MostPopular":"Most Popular",
+    "NewCourses":"New Courses",
+    "Categories":"Categories",
+    "CourseBooking":"Course Booking",
+    "CourseContent":"Course Content",
+    "Payment":"Payment",
+    "CourseHighlight":"Course Highlight",
+    "Instructor":"Instructor",
+    "ContentTitle":"Content Title",
+    "SessionNum":"Session Num",
+    "SessionTitle":"Session Title",
+    "Video":"Video",
+    "Foundations of Stock Trading":"Foundations of Stock Trading",
+    "Session":"Session",
+    "StockTrading":"Stock Trading"
+  },
+  "EditCourseBooking":{
+    "mohamedHassan":"Mohamed Hassan",
+    "meetYourTradingMentor":"Meet your trading mentor",
+    "buyNow":"Buy Now ₹499 ₹1199"
+},
+"EditCategorys":{
+    "StockTrading":"StockTrading",
+    "DescriptionCategory":"Foundations of Stock TradingFoundations of Stock TradingFoundations of Stock Trading"
+}
+}
+
