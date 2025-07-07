@@ -113,7 +113,7 @@ const SideBAr = ({ sidebarOpen }) => {
       </div>
       <div className="flex-1 overflow-y-auto pr-0 pt-0">
         {/* Navigation */}
-        <nav className="space-y-2">
+        <nav className="space-y-2 ">
           {sidebarItems.map((item, index) => (
             <div
               key={index}

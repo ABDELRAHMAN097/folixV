@@ -7,7 +7,7 @@ const AddButton = ({ label = "Add", onClick }) => {
         onClick={onClick}
         className="flex items-center justify-between gap-2 hover:bg-[#628334] px-3 py-2 bg-primary border-none rounded-full shadow-sm focus:outline-none"
       >
-        <span className="text-black font-medium">{label}</span>
+        <span className="text-white font-medium">{label}</span>
       </button>
     </div>
   )
