@@ -774,7 +774,7 @@ function OurProduct() {
   ];
   const { translate } = useTranslation();
   return (
-    <div className="p-2 md:p-4 min-h-[70vh] text-white relative z-10 grid gap-1 md:gap-4">
+    <div className="grid grid-cols-1 p-2 md:p-4 min-h-[70vh] text-white relative z-10 gap-1 md:gap-4">
       {/* Tabs & Add Button */}
       <div className="grid grid-cols-1 md:grid-cols-[1fr_auto] items-center gap-1 md:gap-4">
         {/* Tabs - Scrollable on small screens */}
